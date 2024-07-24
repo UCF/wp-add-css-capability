@@ -1,8 +1,8 @@
 <!---
-Thank you for contributing to {{My-Project}}.
+Thank you for contributing to wp-add-css-capability.
 
 Please make sure you've read our contributing guidelines:
-https://github.com/UCF/{{My-Project}}/blob/master/CONTRIBUTING.md
+https://github.com/UCF/wp-add-css-capability/blob/master/CONTRIBUTING.md
 
 Provide a general summary of your changes in the Title above and fill in the template below.
 -->
