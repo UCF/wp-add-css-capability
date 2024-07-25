@@ -1,0 +1,8 @@
+{
+    "name": "ucf/wp-add-css-capability",
+    "description": "Allows site administrators to access the Additional CSS customizer field.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
