@@ -1,7 +1,7 @@
 
 <?php
 /*
-Plugin Name: Additional CSS Customizer Capability
+Plugin Name: Add CSS Customizer Capability
 Description: Allows site administrators to access the "Additional CSS" customizer field.
 Version: 1.0.0
 Author: UCF Web Communications
