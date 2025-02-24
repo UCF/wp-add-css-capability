@@ -2,7 +2,7 @@
 Contributors: ucfwebcom
 Requires at least: 5.3
 Tested up to: 6.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/copyleft/gpl-3.0.html
@@ -21,6 +21,10 @@ Head over to the [WP Add CSS Capability wiki](https://github.com/UCF/wp-add-css-
 
 
 == Changelog ==
+
+= 1.0.1 =
+Bug Fixes:
+* Corrected an issue where a newline was being added to all pages.
 
 = 1.0.0 =
 * Initial release

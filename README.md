@@ -15,6 +15,10 @@ Head over to the [WP Add CSS Capability wiki](https://github.com/UCF/wp-add-css-
 
 ## Changelog ##
 
+### 1.0.1 ###
+Bug Fixes:
+* Corrected an issue where a newline was being added to all pages.
+
 ### 1.0.0 ###
 * Initial release
 
