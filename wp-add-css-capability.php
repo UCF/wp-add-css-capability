@@ -1,4 +1,3 @@
-
 <?php
 /*
 Plugin Name: Add CSS Customizer Capability
